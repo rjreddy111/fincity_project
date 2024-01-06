@@ -1,0 +1,50 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.left-container {
+  width: 60%;
+  justify-self: flex-start;
+  width: Fixed (486px);
+  height: Hug (408px);
+  top: 111px;
+  left: 120px;
+  gap: 12px;
+}
+
+.add-button {
+  background: #fdc435;
+  border-radius: 3px;
+  border: none;
+  height: 30px;
+  align-self: center;
+}
+
+h4 {
+  color: #fdc435;
+}
+
+.top-contaern {
+  display: flex;
+}
+
+.right-container {
+  background: #fdc435;
+  background-size: cover;
+}
+
+.mian-image {
+  height: 250px;
+  background: #fdc435;
+}
+
+.primary-buttton {
+  background: #fdc435;
+  border-radius: 3px;
+  border: none;
+  height: 30px;
+}

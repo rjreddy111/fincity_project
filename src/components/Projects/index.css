@@ -1,0 +1,10 @@
+.list-style {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.projectImage {
+  width: 150px;
+}
